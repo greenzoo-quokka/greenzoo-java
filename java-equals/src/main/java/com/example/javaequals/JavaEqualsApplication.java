@@ -8,6 +8,10 @@ public class JavaEqualsApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(JavaEqualsApplication.class, args);
+
+
+
+
     }
 
 }
